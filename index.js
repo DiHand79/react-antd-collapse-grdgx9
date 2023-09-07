@@ -70,7 +70,7 @@ function CollapseBugSample(props) {
           ),
         },
         {
-          key: 2,
+          key: 4,
           label: 'test label',
           // header: 'test header',
           children: (
